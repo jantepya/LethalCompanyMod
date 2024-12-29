@@ -1,7 +1,7 @@
 {
   "name": "LethalChungus",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/jantepya",
+  "version_number": "1.0.2",
+  "website_url": "https://github.com/jantepya/LethalCompanyMod",
   "description": "mods for pals",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
